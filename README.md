@@ -1,4 +1,20 @@
-## google fonts
+## Student Details
+
+- Mahalakshmi Seenivasan
+
+## Code Journal
+
+- This is simple react app which i created and i used tailwind css to style this app.
+
+- I also add google fonts in this page
+
+## Instuctions
+
+1 - run "npm install"
+
+2 - run "npm start"
+
+## Attributions
 
 - [how to connect google fonts to react](https://blog.greenroots.info/3-quick-ways-to-add-fonts-to-your-react-app)
 

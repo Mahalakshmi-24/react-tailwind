@@ -8,6 +8,10 @@
 
 - I also add google fonts in this page
 
+- and i instlled animatejs using this [document](https://animate.style/#usage).
+
+- in this file i use simple text animations.
+
 ## Instuctions
 
 1 - run "npm install"
